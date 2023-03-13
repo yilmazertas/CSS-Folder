@@ -1,0 +1,26 @@
+/* p{
+    background-color: chartreuse;
+    opacity: 0.9;
+} */
+
+
+/* body{
+    color: orange;
+    background-image: url("metaworld.png");
+    background-repeat:no-repeat ;
+    background-position:left top ;
+    background-size: cover;
+} */
+/* body {
+    background-color: orange;
+    background-image: url("metaworld.png");
+    background-repeat:no-repeat;
+    background-position:right t ;
+} */
+
+body {
+    background: orange 
+    url("metaworld.png") no-repeat
+    right top
+     
+}

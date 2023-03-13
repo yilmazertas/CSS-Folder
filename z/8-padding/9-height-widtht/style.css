@@ -1,0 +1,9 @@
+div{
+    height:300px ;
+    width: 800px;
+    background-color: blue;
+    color:whitesmoke ;
+    max-width: 100px;
+    
+}
+/* max-width genişliğ sınırlandırmıştır */

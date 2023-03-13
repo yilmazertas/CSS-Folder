@@ -1,0 +1,33 @@
+div{
+    width: 30%;
+    height: 100;
+    background-color: yellow;
+    padding: 20px;
+    border: 1px solid black;
+    margin:30px ;
+}
+div.firstDiv{
+    outline-width:10px ;
+    outline-style:solid;
+    outline-color: red;
+    outline-offset: 15px;
+}
+div.secondDiv{
+ outline-width:10px ;
+ outline-style: ridge;
+ outline-color: red;
+ outline-offset: 15px;
+}
+
+div.thirdDiv{
+outline-width: 10px;
+outline-style: dotted;
+outline-color: red;
+outline-offset:15px ;
+}
+
+/* div.thirdDiv{
+outline:10px dotted  red;
+
+
+} */

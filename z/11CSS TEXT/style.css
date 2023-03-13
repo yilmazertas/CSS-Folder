@@ -1,0 +1,19 @@
+h1{
+    color:green ;
+    background-color: lightgray;
+}
+div {
+    border: 1px solid;
+    padding:10px ;
+    width: 250px;
+    height: 250px;
+    background-color: cadetblue;
+    text-align: justify;
+    text-align-last:left ;
+}
+div img{
+    vertical-align:text-top ;
+
+}
+/* <sub>->vertical-align:sub;font-size:smaller; */
+/* <sub>->vartical-align:super;font-size:smaller; */
